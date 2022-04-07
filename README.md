@@ -5,7 +5,7 @@ Aqui está listado todas as atas de Reunião Geral do Onda Elétrica.
 
 # Como conectar o repositório ao editor do Stack Edit
 
-Clique no símbolo do StackEdit no canto superior direito, depois em Workspaces 
+Clique no símbolo do StackEdit no canto superior direito, depois em 'Workspaces' e depois 'Add a GitHub workspace'. **Importante:** ao fazer login, coloque que a branch seja main 
 
 
 # Corrigir bug ao conectar ao Github no Stack Edit (erro 404) e acessar pastas após a conexão (erro 402)
@@ -39,6 +39,6 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 Após isso, faça o login normalmente , 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDE1NTIzNywtOTk3ODE3NTkwLC0xNj
+eyJoaXN0b3J5IjpbLTMwMDAzMTkwNiwtOTk3ODE3NTkwLC0xNj
 g3ODE1MDk3LC0xMzAzMjYwODg0XX0=
 -->
