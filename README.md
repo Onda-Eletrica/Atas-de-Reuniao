@@ -2,6 +2,7 @@
 Aqui está listado todas as atas de Reunião Geral do Onda Elétrica.
 ## Importante
 >As atas estão organizadas na pasta ANO e os arquivos listados no formado MÊS-DATA.md 
+>
 >md é apenas um formato de arquivo markdown, editável em qualquer editor de texto / bloco de notas que segue algumas regrinhas para ser escrito
 >Dicas de como escrever: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
