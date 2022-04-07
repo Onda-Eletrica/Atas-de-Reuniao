@@ -8,7 +8,7 @@ Aqui está listado todas as atas de Reunião Geral do Onda Elétrica.
 Clique no símbolo do StackEdit no canto superior direito, depois em 'Workspaces' e depois 'Add a GitHub workspace'. **Importante:** ao fazer login, coloque que a branch seja main (ou a que você desejar) **deixar vazio dá erro de sincronização 402**
 
 ```
-![alt text](https://github.com/Onda-Eletrica/Atas-de-Reuniao/blob/main/ArquivosExtras/TelaLogin.png?raw=true)
+![alt text](/main/ArquivosExtras/TelaLogin.png)
 
 ```
 
@@ -46,6 +46,6 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 Após isso, faça o login normalmente , 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTU5MTQ4NSwtOTk3ODE3NTkwLC0xNj
+eyJoaXN0b3J5IjpbMTY3NDk1NDU1OSwtOTk3ODE3NTkwLC0xNj
 g3ODE1MDk3LC0xMzAzMjYwODg0XX0=
 -->
