@@ -9,13 +9,7 @@ Clique no símbolo do StackEdit no canto superior direito, depois em 'Workspaces
 
 ![alt text](/ArquivosExtras/TelaLogin.png)
 
-
-
-
-
-# Corrigir bug ao conectar ao Github no Stack Edit (erro 404) e acessar pastas após a conexão (erro 402)
-
-Quando estiver na tela solicitando "Conceder acesso aos seus repositórios privados" ("Grant access to your private repositories"), abra o console do desenvolvedor (CTRL+SHIFT+i e clique na aba 'Console') e cole as seguintes linhas.
+Prossiga, e quando estiver na tela solicitando "Conceder acesso aos seus repositórios privados" ("Grant access to your private repositories"), abra o console do desenvolvedor (CTRL+SHIFT+i e clique na aba 'Console') e cole as seguintes linhas.
 FONTE: https://github.com/benweet/stackedit/issues/1755#issuecomment-918949789
 
 ~~~
@@ -42,8 +36,8 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 }
 ~~~
 
-Após isso, faça o login normalmente , 
+Após isso, faça o login normalmente. Caso aconteça algum erro ao exibir ao editor (exceto os erros 404, 402 e 400), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNjc2OTMsLTk5NzgxNzU5MCwtMTY4Nz
-gxNTA5NywtMTMwMzI2MDg4NF19
+eyJoaXN0b3J5IjpbMTQ5MDYyNjA4MiwtOTk3ODE3NTkwLC0xNj
+g3ODE1MDk3LC0xMzAzMjYwODg0XX0=
 -->
