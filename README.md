@@ -36,8 +36,8 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 }
 ~~~
 
-Após isso, faça o login normalmente. Caso aconteça algum erro ao exibir ao editor (exceto os erros 404, 402 e 400), 
+Após isso, faça o login normalmente. Caso aconteça algum erro ao exibir ao editor (exceto os erros 404, 402 e 400) ou ele nem abra, atualize a página e pronto. Caso seja os erros **404, 402 e 400**, refaça os passos acima.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDYyNjA4MiwtOTk3ODE3NTkwLC0xNj
+eyJoaXN0b3J5IjpbLTE0ODYzNjM4NCwtOTk3ODE3NTkwLC0xNj
 g3ODE1MDk3LC0xMzAzMjYwODg0XX0=
 -->
