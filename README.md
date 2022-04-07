@@ -1,7 +1,8 @@
 # Atas de Reunião
 Aqui está listado todas as atas de Reunião Geral do Onda Elétrica.
 ## Importante
->As atas estão organizadas na pasta ANO e os arquivos listados no formado MÊS-DATA
+>As atas estão organizadas na pasta ANO e os arquivos listados no formado MÊS-DATA.md 
+>md é apenas um formato de arquivo markdown, ediável em qualuqer ei=ditor de texto/bloco de notas,
 
 # Como conectar o repositório ao editor do Stack Edit
 
@@ -38,6 +39,6 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 Após isso, faça o login normalmente. Caso aconteça algum erro ao exibir ao editor (exceto os erros 404, 402 e 400) ou ele nem abra, atualize a página e pronto. Caso seja os erros **404, 402 e 400**, refaça os passos acima.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYzNjM4NCwtOTk3ODE3NTkwLC0xNj
-g3ODE1MDk3LC0xMzAzMjYwODg0XX0=
+eyJoaXN0b3J5IjpbNjg3NTQzMDc2LC0xNDg2MzYzODQsLTk5Nz
+gxNzU5MCwtMTY4NzgxNTA5NywtMTMwMzI2MDg4NF19
 -->
