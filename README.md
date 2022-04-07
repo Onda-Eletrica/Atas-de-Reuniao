@@ -13,6 +13,8 @@ Clique no símbolo do StackEdit no canto superior direito, depois em 'Workspaces
 ```
 
 
+
+
 # Corrigir bug ao conectar ao Github no Stack Edit (erro 404) e acessar pastas após a conexão (erro 402)
 
 Quando estiver na tela solicitando "Conceder acesso aos seus repositórios privados" ("Grant access to your private repositories"), abra o console do desenvolvedor (CTRL+SHIFT+i e clique na aba 'Console') e cole as seguintes linhas.
@@ -44,6 +46,6 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 Após isso, faça o login normalmente , 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgzODc1MSwtOTk3ODE3NTkwLC0xNj
+eyJoaXN0b3J5IjpbMTY4NTU5MTQ4NSwtOTk3ODE3NTkwLC0xNj
 g3ODE1MDk3LC0xMzAzMjYwODg0XX0=
 -->
