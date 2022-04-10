@@ -6,7 +6,7 @@ Aqui está listado todas as atas de Reunião Geral do Onda Elétrica.
 >md é apenas um formato de arquivo markdown, editável em qualquer editor de texto / bloco de notas que segue algumas regrinhas para ser escrito
 >Dicas de como escrever: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-# Como conectar o repositório ao editor do Stack Edit
+# Como conectar o repositório ao editor do StackEdit
 
 Clique no símbolo do StackEdit no canto superior direito, depois em 'Workspaces' e depois 'Add a GitHub workspace'. **Importante:** ao fazer login, coloque que a branch seja 'main' (ou a que você desejar). **Deixar vazio dá erro de sincronização 402**
 
@@ -41,6 +41,7 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 Após isso, faça o login normalmente. Caso aconteça algum erro ao exibir ao editor (exceto os erros 404, 402 e 400) ou ele nem abra, atualize a página e pronto. Caso seja os erros **404, 402 e 400**, refaça os passos acima.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjU4OTQ0LC0xNDg2MzYzODQsLTk5Nz
-gxNzU5MCwtMTY4NzgxNTA5NywtMTMwMzI2MDg4NF19
+eyJoaXN0b3J5IjpbLTE5NTI1MjYwMzAsLTkxNjU4OTQ0LC0xND
+g2MzYzODQsLTk5NzgxNzU5MCwtMTY4NzgxNTA5NywtMTMwMzI2
+MDg4NF19
 -->
