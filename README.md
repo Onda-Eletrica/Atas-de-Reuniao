@@ -6,6 +6,10 @@ Aqui está listado todas as atas de Reunião Geral do Onda Elétrica.
 >md é apenas um formato de arquivo markdown, editável em qualquer editor de texto / bloco de notas que segue algumas regrinhas para ser escrito
 >Dicas de como escrever: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+# Como editar o repositório no Visual Studio Dev (Versão Web)
+
+![alt text] (https://visualstudiomagazine.com/articles/2021/08/31/~/media/ECG/visualstudiomagazine/Images/2021/08/github_dev.ashx)
+
 # Como conectar o repositório ao editor do StackEdit
 
 Clique no símbolo do StackEdit no canto superior direito, depois em 'Workspaces' e depois 'Add a GitHub workspace'. **Importante:** ao fazer login, coloque que a branch seja 'main' (ou a que você desejar). **Deixar vazio dá erro de sincronização 402**
