@@ -8,7 +8,7 @@ Aqui está listado todas as atas de Reunião Geral do Onda Elétrica.
 
 # Como editar o repositório no Visual Studio Dev (Versão Web)
 
-![alt text] ()
+![alt text](/ArquivosExtras/github_dev.gif)
 
 # Como conectar o repositório ao editor do StackEdit
 
@@ -45,7 +45,7 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 Após isso, faça o login normalmente. Caso aconteça algum erro ao exibir ao editor (exceto os erros 404, 402 e 400) ou ele nem abra, atualize a página e pronto. Caso seja os erros **404, 402 e 400**, refaça os passos acima.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjUzNDE1OSwtMTk1MjUyNjAzMCwtOT
-E2NTg5NDQsLTE0ODYzNjM4NCwtOTk3ODE3NTkwLC0xNjg3ODE1
-MDk3LC0xMzAzMjYwODg0XX0=
+eyJoaXN0b3J5IjpbLTE1Mzg4ODk4NjUsLTE5NTI1MjYwMzAsLT
+kxNjU4OTQ0LC0xNDg2MzYzODQsLTk5NzgxNzU5MCwtMTY4Nzgx
+NTA5NywtMTMwMzI2MDg4NF19
 -->
